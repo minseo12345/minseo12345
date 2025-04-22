@@ -47,9 +47,9 @@ Here are some ideas to get you started:
   
   ### ETC
   <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intellij Idea-000000?style=flat-square&logo=Intellij Idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntellijIdea-000000?style=flat-square&logo=Intellij Idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
   <!--Slack-->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
